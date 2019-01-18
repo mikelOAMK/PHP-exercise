@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php include "menu.php" ?>
 	<h1>Associative Array</h1>
 	<?php 
 	$students = array(
@@ -40,5 +35,4 @@
 		 ?>
 	</tbody>
 	</table>
-</body>
-</html>
+<?php include "footer.php"; ?>

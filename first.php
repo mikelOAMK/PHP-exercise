@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php include "menu.php"; ?>
+
 	<h1>PHP Basics</h1>
 	<?php 
 	$myname = 'Michael';
@@ -44,5 +40,5 @@
 		}
 		echo '</ul>';
 	 ?>
-</body>
-</html>
+
+<?php include "footer.php"; ?>
