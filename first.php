@@ -31,7 +31,7 @@
 			array('Michael', 'Jordan'),
 			array('Lebron', 'James')
 		);
-		echo'with print_r<br>';
+		echo'<h3>with print_r</h3>';
 		print_r($names);
 		echo '<h3> with foreach-loop</h3>';
 		echo '<ul>';
